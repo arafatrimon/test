@@ -1,3 +1,4 @@
 This iss test1
 this is test one sechond line
 This is test1 third line
+Logo algignment is centered
